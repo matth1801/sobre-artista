@@ -1,0 +1,51 @@
+*{box-sizing: border-box;}
+       
+        body{
+        margin: 0;
+        font-family: "Poppins", sans-serif;
+        background-color: #ffd8de;
+        }
+       
+        .topo{
+           background-color: #e2e2e2;
+            padding: 20px;
+           text-align: center;
+        }
+   
+        .menu{
+            background-color: #3c3c3c;
+            overflow: hidden;
+            padding: 16px;
+            text-align: center;
+        }
+   
+        .menu a{
+            color: rgb(255, 255, 255);
+            padding: 10px;
+            text-decoration: none;
+            display: inline;
+        }
+        
+        .centralizar{
+            width: 900px; 
+            margin: 0 auto; 
+            padding: 20px;
+            text-align: center;
+            font-size: 17px;
+        }
+
+        .artistas{
+            font-family: "Poppins", sans-serif;
+            color: black;
+        }
+
+        .caixa{
+            background-color: #9c9a9a;
+            border-radius: 50px;
+            padding: 27px;
+        }
+
+        .borda{
+            border-radius: 30px;
+            width: 250px;
+        }
